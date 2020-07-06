@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on the premier online marketing platform for the cultural sector at [Peppered](https://peppered.com)
+- 🤔 I’m looking for help with maths and complex algorithms
+
+
 <!--
 **rikvanderkemp/rikvanderkemp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

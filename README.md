@@ -4,6 +4,8 @@
 - 🤔 I’m looking for help with maths and complex algorithms
 
 
+![Parrot](https://ppaas.herokuapp.com/partyparrot)
+
 <!--
 **rikvanderkemp/rikvanderkemp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

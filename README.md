@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on the premier online marketing platform for the cultural sector at [Peppered](https://peppered.com)
-- 🤔 I’m looking for help with maths and complex algorithms
-
+- 🔭 I’m currently working on at [TreeHouse](https://treehouse.nl)
 
 
 ![Parrot](https://ppaas.herokuapp.com/partyparrot)![Parrot](https://ppaas.herokuapp.com/partyparrot)![Parrot](https://ppaas.herokuapp.com/partyparrot)![Parrot](https://ppaas.herokuapp.com/partyparrot)![Parrot](https://ppaas.herokuapp.com/partyparrot)![Parrot](https://ppaas.herokuapp.com/partyparrot)![Parrot](https://ppaas.herokuapp.com/partyparrot)

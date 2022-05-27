@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on at [TreeHouse](https://treehouse.nl)
+- I’m currently working on at [Beequip](https://beequip.nl)
 
 
 ![Parrot](https://ppaas.herokuapp.com/partyparrot)![Parrot](https://ppaas.herokuapp.com/partyparrot)![Parrot](https://ppaas.herokuapp.com/partyparrot)![Parrot](https://ppaas.herokuapp.com/partyparrot)![Parrot](https://ppaas.herokuapp.com/partyparrot)![Parrot](https://ppaas.herokuapp.com/partyparrot)![Parrot](https://ppaas.herokuapp.com/partyparrot)
